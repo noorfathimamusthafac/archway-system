@@ -45,12 +45,11 @@ const ChatInterface = ({ activeConversation, updateMessages, activeSection }) =>
         setIsTyping(true);
 
         try {
-            // 3. POST to Live Localtunnel Backend
-            const response = await fetch('https://moody-chairs-accept.loca.lt/ask', {
+            // 3. POST to Permanent cloud backend
+            const response = await fetch('https://archway-system.onrender.com/ask', {
                 method: 'POST',
                 headers: {
-                    'Content-Type': 'application/json',
-                    'bypass-tunnel-reminder': 'true'
+                    'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({ question })
             });

@@ -28,7 +28,7 @@ def get_llm():
     if _llm is None:
         api_key = os.getenv("OPENAI_API_KEY")
         if not api_key:
-            raise ValueError("OpenAI API Key is missing in backend/.env")
+            raise ValueError("OpenAI API Key is missing. Please set 'OPENAI_API_KEY' in the Render.com Environment Variables.")
         _llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
     return _llm
 
