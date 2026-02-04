@@ -1,0 +1,56 @@
+.boq-container {
+    margin-top: 20px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 1px solid var(--glass-border);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.boq-header {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 12px 20px;
+    border-bottom: 1px solid var(--glass-border);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.boq-header h4 {
+    color: var(--accent-primary);
+    font-size: 0.9rem;
+    text-transform: uppercase;
+}
+
+.boq-table-wrapper {
+    overflow-x: auto;
+}
+
+.boq-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+}
+
+.boq-table th {
+    text-align: left;
+    padding: 10px 20px;
+    background: rgba(255, 255, 255, 0.02);
+    color: var(--text-dim);
+    font-weight: 500;
+}
+
+.boq-table td {
+    padding: 10px 20px;
+    border-top: 1px solid var(--glass-border);
+    color: var(--text-main);
+}
+
+.boq-footer {
+    padding: 15px 20px;
+    background: rgba(0, 210, 255, 0.05);
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+    color: var(--accent-primary);
+}

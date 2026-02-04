@@ -1,0 +1,95 @@
+Archway Design Standards 2024: Workspace Zoning
+Zoning and Circulation:
+- Main corridors: Minimum 1500mm width for high traffic zones (Reception to Cafeteria).
+- Secondary aisles: Minimum 1200mm between workstation clusters.
+- Cafe/Dining Seating: Minimum 450mm between chair back and wall; 900mm for main service aisles.
+- Fire Exit Paths: Must differ by region but generally >1200mm clear width.
+
+Acoustic Zoning:
+- EXECUTIVE ZONES must be acoustically separated from BREAKOUT ZONES.
+- Use baffled ceilings (NRC > 0.8) in open office areas.
+- Meeting rooms require STC 45+ partitions.
+
+Lighting & Ambiance Guidelines
+Lux Levels (Target):
+- Workstations: 350-500 Lux at desk height.
+- Corridors: 150 Lux.
+- Meeting Rooms: 500 Lux (dimmable).
+
+Color Temperature:
+- Work areas: 4000K (Cool White).
+- Breakout/Relaxation: 3000K (Warm White).
+
+Approved BOQ Rates - Q1 2025 (India Region)
+Flooring Works:
+- Vitrified Tile (600x600, Kajaria/Somany): ₹150 - ₹220 / sqft (Material Only).
+- Carpet Tiles (Nylon 6, Interface/Shaw): ₹85 - ₹150 / sqft.
+- Vinyl Flooring (2mm, LG/Gerflor): ₹75 - ₹120 / sqft.
+
+Civil Works:
+- Brickwork (4.5"): ₹80 / sqft.
+- Plastering (12mm): ₹45 / sqft.
+
+Standard Office Furniture Dimensions 2025
+Desks and Workstations:
+- Standard Width: 1200mm to 1800mm (4ft to 6ft).
+- Standard Depth: 600mm to 750mm (2ft to 2.5ft).
+- Height: 750mm.
+Meeting Tables:
+- 6-Person: 1800mm x 900mm.
+- 12-Person: 3600mm x 1200mm.
+
+National Building Code (NBC) India 2016: Fire Safety
+- External Staircase Width: 1250mm.
+- Internal Corridor: 1500mm.
+- Refuge Area: Every 7th floor for buildings > 24m.
+- Mandatory Sparklers in basement.
+
+Modern Office Zoning 2025
+- High Density: 100 sqft/person.
+- Standard: 150 sqft/person.
+- Premium: 250 sqft/person.
+- Circulation Clearance: 900mm to 1200mm between rows.
+
+Wet Area Standards & Waterproofing 2024
+Toilets & Pantry:
+- Waterproofing Standard: 2-coat Crystallization-based Cementitious Pressure Decomposition (CPD) coating.
+- Vertical Upturn: Minimum 150mm high vertical upturn on all partition walls.
+- Pond Testing: Mandatory 48-hour pond testing (minimum 50mm water level) before tiling.
+- Pipe Sleeves: PVC sleeves with non-shrink grout (GP2 type) at all slab penetrations.
+- Slope: Minimum 1:80 slope towards floor drains.
+- Drains: 100mm dia PVC pipes with cockroach traps.
+
+Project Cost Matrix 2025 (Regional Estimation)
+- Executive Office Setup: ₹2,200 - ₹3,500 / sqft (Includes MEP, False Ceiling, Furniture).
+- Cafeteria / F&B Zone: ₹2,800 - ₹4,200 / sqft (Heavy MEP & Kitchen integration).
+- Open Workstation Area: ₹1,500 - ₹2,200 / sqft.
+- Server Room/IT Hub: ₹4,500 - ₹6,000 / sqft (Cooling & Fire Suppression included).
+
+Technical Product Catalog 2025
+- Product: ERGO-S7 Workstation
+  - Description: High-density modular workstations with integrated cable management.
+  - Specs: Width 1200mm, Depth 600mm, Height 750mm.
+  - Material: Pre-laminated twin-board with MS powder-coated legs.
+- Product: ACOUSTIC-CELL Ceiling
+  - Description: Perforated acoustic ceiling tiles for sound absorption.
+  - Specs: 600x600mm, NRC 0.85, RH 99%.
+  - Material: Mineral fiber with anti-bacterial coating.
+- Product: VISTA-GLAZ Partition
+  - Description: Double-glazed glass partition system for cabins.
+  - Specs: 12mm Toughened Glass, STC 42 rating.
+  - Material: Anodized aluminum frame.
+
+Detailed MEP & Technical Services BOQ 2025
+- HVAC - DX Unit (Daikin/Mitsubishi): ₹450 - ₹650 / sqft.
+- Electrical Wiring & Paneling (Schneider/Legrand): ₹350 - ₹500 / sqft.
+- LED Lighting Fixtures (Philips/Wipro): ₹220 - ₹400 / sqft.
+- Firefighting Sprinklers & Hydrants: ₹85 - ₹150 / sqft.
+- Networking & Server Rack Setup: ₹180 - ₹300 / sqft.
+- Toilet Plumbing & Fixtures (Kohler/Jaquar): ₹45,000 - ₹85,000 / unit.
+
+Kitchen & QSR Specialized Equipment 2025
+- Exhaust Hood with Scrubber System: ₹1,20,000 - ₹2,50,000.
+- Stainless Steel Work Tables: ₹15,000 - ₹25,000 / unit.
+- Grease Trap Systems: ₹8,500 - ₹15,000.
+- Gas Leak Detection Systems: ₹25,000 - ₹45,000.
